@@ -1,0 +1,110 @@
+name Linda Xu
+birthday 13/05/1990
+address 491 Forest Rd, Penshurst NSW
+postcode 2222
+phone 03112210
+pet lizard
+
+name Posephine Esmerelda Bloggs
+birthday 13/05/1960
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+phone 11222009
+
+name Julia Wang
+birthday 03/06/2008
+address 12-22 Dora St, Hurstville NSW
+postcode 2220
+phone 00210022
+pet bird cat
+
+name Jinma Lee
+birthday 01/08/1955
+address 612 Forest Rd, Penshurst NSW
+postcode 2222
+phone 01220066
+pet dog bird cat pig lizard
+
+name Jo Bloggs
+birthday 18/02/2003
+address 9001 Chester Crescent, Chatswood, NSW
+postcode 2057
+phone 88884444
+pet bird pig
+
+name David Lee
+birthday 01/08/1978
+address 19 Forest Rd, Penshurst NSW
+postcode 2222
+phone 01220055
+pet lizard
+
+name Smith Jinman
+birthday 01/06/2005
+address 12 Forest Rd, Penshurst NSW
+postcode 2222
+phone 01220033
+pet lizard cat
+
+name Linda H Evans
+address 1 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 03222215
+pet pig
+
+name Patricia Davies
+birthday 03/06/2008
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+phone 00220000
+pet bird cat
+
+name Feng Wang
+birthday 03/01/1989
+address 3 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 03222215
+pet dog cat
+
+name David Joans
+birthday 03/05/1999
+address 61 Gibbes St, Redfern, NSW
+postcode 2016
+phone 01220099
+pet cat bird
+
+name Taylor Swift
+birthday 01/05/1988
+address 192 Penshurst St, Penshurst NSW
+postcode 2222
+phone 01220088
+pet lizard dog
+
+name Jone Linda
+birthday 01/05/1948
+address 190 Penshurst St, Penshurst NSW
+postcode 2222
+phone 01220066
+pet cat dog
+
+name Ben Wang
+birthday 03/05/1999
+address 6 Gibbes St, Redfern, NSW
+postcode 2016
+phone 01220069
+pet bird cat
+
+name Sina Rhaul
+birthday 03/05/1999
+address 7 Gibbes St, Redfern, NSW
+postcode 2016
+phone 01220129
+pet cat bird
+
+name Tom White
+birthday 14/12/1987
+address 630 Forest Rd, Penshurst NSW
+postcode 2222
+phone 23000000
+pet dog bird
+
